@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Peter Keogh, Head of Engineering at [kubicle.com](https://kubicle.com). I also play bass with [thescratch.ie](https://thescratch.ie).
+I'm Peter Keogh, Senior Developer at Shopify(https://www.shopify.ie/). I also play bass with [thescratch.ie](https://thescratch.ie).
